@@ -1,0 +1,298 @@
+﻿[27-Jun-2014 16:47:55 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LEFT JOIN genbainfo USING(4CODE) WHERE genbainfo.GENBASTATUS = '0' GROUP BY 4COD' at line 1
+[27-Jun-2014 16:47:55 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\kani\f_DB.php on line 2497
+[03-Jul-2014 13:35:43 Asia/Tokyo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\kani\f_Form.php on line 1714
+[03-Jul-2014 13:36:13 Asia/Tokyo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\kani\f_Form.php on line 1708
+[03-Jul-2014 13:37:39 Asia/Tokyo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\kani\f_Form.php on line 1708
+[18-Jul-2014 15:28:25 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-10,10' at line 1
+[18-Jul-2014 15:28:25 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 2525
+[18-Jul-2014 15:28:25 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 2576
+[25-Sep-2014 14:18:02 Asia/Tokyo] PHP Notice:  Undefined index: list in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/listJump.php on line 60
+[25-Sep-2014 14:18:02 Asia/Tokyo] PHP Notice:  Undefined index: limitstart in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/listJump.php on line 60
+[25-Sep-2014 14:18:02 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[25-Sep-2014 14:18:02 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 544
+[25-Sep-2014 14:18:02 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 564
+[25-Sep-2014 14:18:02 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 580
+[10-Nov-2014 14:52:05 Asia/Tokyo] MySQL server has gone away
+[10-Nov-2014 14:52:05 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 2876
+[10-Nov-2014 14:52:05 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 2893
+[25-Nov-2014 11:40:41 Asia/Tokyo] PHP Warning:  mysqli::mysqli(): (HY000/2013): Lost connection to MySQL server at 'reading authorization packet', system error: 0 in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 51
+[25-Nov-2014 11:40:41 Asia/Tokyo] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 53
+[25-Nov-2014 11:40:41 Asia/Tokyo] PHP Warning:  dbconect(): Couldn't fetch mysqli in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 53
+[11-Jul-2016 16:14:59 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/list.php on line 40
+[11-Jul-2016 16:14:59 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_Form.php on line 1081
+[11-Jul-2016 16:14:59 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 275
+[11-Jul-2016 16:14:59 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 277
+[11-Jul-2016 16:14:59 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 278
+[11-Jul-2016 16:14:59 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 344
+[11-Jul-2016 16:14:59 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 370
+[11-Jul-2016 16:14:59 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 371
+[11-Jul-2016 16:14:59 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 372
+[11-Jul-2016 16:14:59 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 503
+[11-Jul-2016 16:14:59 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[11-Jul-2016 16:14:59 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 532
+[11-Jul-2016 16:15:10 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/list.php on line 40
+[11-Jul-2016 16:15:10 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_Form.php on line 1081
+[11-Jul-2016 16:15:10 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 275
+[11-Jul-2016 16:15:10 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 277
+[11-Jul-2016 16:15:10 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 278
+[11-Jul-2016 16:15:10 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 344
+[11-Jul-2016 16:15:10 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 370
+[11-Jul-2016 16:15:10 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 371
+[11-Jul-2016 16:15:10 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 372
+[11-Jul-2016 16:15:11 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 503
+[11-Jul-2016 16:15:11 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[11-Jul-2016 16:15:11 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 532
+[14-Mar-2017 09:53:42 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[14-Mar-2017 09:53:42 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 544
+[14-Mar-2017 09:53:42 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 564
+[14-Mar-2017 09:53:42 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 580
+[14-Mar-2017 09:53:52 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[14-Mar-2017 09:53:52 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 544
+[14-Mar-2017 09:53:52 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 564
+[14-Mar-2017 09:53:52 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 580
+[14-Mar-2017 09:53:59 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[14-Mar-2017 09:53:59 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 544
+[14-Mar-2017 09:53:59 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 564
+[14-Mar-2017 09:53:59 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 580
+[14-Mar-2017 10:00:21 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[14-Mar-2017 10:00:21 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 544
+[14-Mar-2017 10:00:21 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 564
+[14-Mar-2017 10:00:21 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 580
+[22-May-2017 16:21:42 Asia/Tokyo] PHP Notice:  Undefined index: limitstart in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/genbaendJump.php on line 52
+[09-Jun-2017 16:23:24 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/list.php on line 40
+[09-Jun-2017 16:23:24 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_Form.php on line 1081
+[09-Jun-2017 16:23:24 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 275
+[09-Jun-2017 16:23:24 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 277
+[09-Jun-2017 16:23:24 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 278
+[09-Jun-2017 16:23:24 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 344
+[09-Jun-2017 16:23:24 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 370
+[09-Jun-2017 16:23:24 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 371
+[09-Jun-2017 16:23:24 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 372
+[09-Jun-2017 16:23:24 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 503
+[09-Jun-2017 16:23:24 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[09-Jun-2017 16:23:24 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 532
+[18-Jul-2017 16:18:09 Asia/Tokyo] Unknown column 'GENBASTATUS' in 'where clause'
+[18-Jul-2017 16:18:09 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 748
+[15-Jan-2018 14:51:50 Asia/Tokyo] PHP Notice:  Undefined index: title1 in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/eventEntry.php on line 3
+[15-Jan-2018 14:51:50 Asia/Tokyo] PHP Notice:  Undefined index: start_year in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/eventEntry.php on line 4
+[15-Jan-2018 14:51:50 Asia/Tokyo] PHP Notice:  Undefined index: start_hour in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/eventEntry.php on line 5
+[15-Jan-2018 14:51:50 Asia/Tokyo] PHP Notice:  Undefined index: start_min in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/eventEntry.php on line 6
+[15-Jan-2018 14:51:50 Asia/Tokyo] PHP Notice:  Undefined index: end_year in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/eventEntry.php on line 7
+[15-Jan-2018 14:51:50 Asia/Tokyo] PHP Notice:  Undefined index: end_hour in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/eventEntry.php on line 8
+[15-Jan-2018 14:51:50 Asia/Tokyo] PHP Notice:  Undefined index: end_min in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/eventEntry.php on line 9
+[15-Jan-2018 14:51:50 Asia/Tokyo] PHP Notice:  Undefined index: honbun in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/eventEntry.php on line 10
+[15-Jan-2018 14:51:50 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/eventEntry.php on line 16
+[15-Jan-2018 14:51:50 Asia/Tokyo] PHP Notice:  Undefined offset: 2 in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/eventEntry.php on line 18
+[15-Jan-2018 14:51:50 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/eventEntry.php on line 23
+[15-Jan-2018 14:51:50 Asia/Tokyo] PHP Notice:  Undefined offset: 2 in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/eventEntry.php on line 25
+[15-Jan-2018 14:51:50 Asia/Tokyo] Table 'LA07933091-kani.calenderinfo' doesn't exist
+[15-Jan-2018 14:51:50 Asia/Tokyo] PHP Fatal error:  Call to a member function execute() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/eventEntry.php on line 32
+[01-Jun-2018 13:49:00 Asia/Tokyo] Unknown column 'GENBASTATUS' in 'where clause'
+[01-Jun-2018 13:49:00 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 748
+[01-Jun-2018 13:49:07 Asia/Tokyo] Unknown column 'GENBASTATUS' in 'where clause'
+[01-Jun-2018 13:49:07 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 748
+[01-Jun-2018 13:49:14 Asia/Tokyo] Unknown column 'GENBASTATUS' in 'where clause'
+[01-Jun-2018 13:49:14 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 748
+[01-Jun-2018 13:49:55 Asia/Tokyo] Unknown column 'GENBASTATUS' in 'where clause'
+[01-Jun-2018 13:49:55 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 748
+[01-Jun-2018 13:54:07 Asia/Tokyo] Unknown column 'GENBASTATUS' in 'where clause'
+[01-Jun-2018 13:54:07 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 748
+[04-Jun-2018 10:34:57 Asia/Tokyo] Unknown column 'GENBASTATUS' in 'where clause'
+[04-Jun-2018 10:34:57 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 748
+[26-Jun-2018 11:57:56 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-10,10' at line 1
+[26-Jun-2018 11:57:56 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 760
+[26-Jun-2018 11:57:56 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 777
+[10-Jul-2018 13:27:09 Asia/Tokyo] Unknown column 'GENBASTATUS' in 'where clause'
+[10-Jul-2018 13:27:09 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 748
+[10-Jul-2018 13:27:21 Asia/Tokyo] Unknown column 'GENBASTATUS' in 'where clause'
+[10-Jul-2018 13:27:21 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 748
+[24-Oct-2018 14:21:32 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[24-Oct-2018 14:21:32 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[31-Oct-2018 11:59:59 Asia/Tokyo] Unknown column 'dobainfo.10CODE' in 'where clause'
+[31-Oct-2018 11:59:59 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 535
+[09-Nov-2018 14:36:08 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[09-Nov-2018 14:36:08 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[09-Nov-2018 15:46:42 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[09-Nov-2018 15:46:42 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[09-Nov-2018 16:24:23 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[09-Nov-2018 16:24:23 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[12-Nov-2018 15:58:35 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[12-Nov-2018 15:58:35 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[21-Nov-2018 13:50:14 Asia/Tokyo] Unknown column 'dobainfo.10CODE' in 'where clause'
+[21-Nov-2018 13:50:15 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 535
+[29-Nov-2018 13:51:24 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[29-Nov-2018 13:51:24 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[06-Dec-2018 16:06:07 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[06-Dec-2018 16:06:07 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[16-Jan-2019 16:33:23 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[16-Jan-2019 16:33:23 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[17-Jan-2019 16:25:36 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[17-Jan-2019 16:25:36 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[18-Jan-2019 14:17:05 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[18-Jan-2019 14:17:05 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[23-Jan-2019 14:46:48 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[23-Jan-2019 14:46:48 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[29-Jan-2019 15:41:16 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[29-Jan-2019 15:41:16 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[01-Feb-2019 16:29:16 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[01-Feb-2019 16:29:16 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[13-Feb-2019 10:46:31 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[13-Feb-2019 10:46:31 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[18-Feb-2019 11:47:00 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[18-Feb-2019 11:47:00 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[18-Feb-2019 11:50:02 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[18-Feb-2019 11:50:02 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[20-Feb-2019 13:49:18 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[20-Feb-2019 13:49:18 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[28-Feb-2019 09:38:40 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[28-Feb-2019 09:38:40 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[01-Mar-2019 16:27:04 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[01-Mar-2019 16:27:04 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[22-Mar-2019 16:45:34 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[22-Mar-2019 16:45:34 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[03-Apr-2019 16:01:41 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[03-Apr-2019 16:01:41 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[23-Apr-2019 09:01:04 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[23-Apr-2019 09:01:04 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[30-Jul-2019 10:25:02 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[30-Jul-2019 10:25:02 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[23-Oct-2019 11:51:41 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[23-Oct-2019 11:51:41 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[23-Oct-2019 11:54:18 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[23-Oct-2019 11:54:18 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[29-Oct-2019 16:26:53 Asia/Tokyo] Unknown column 'dobainfo.10CODE' in 'where clause'
+[29-Oct-2019 16:26:53 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 535
+[31-Oct-2019 13:44:23 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[31-Oct-2019 13:44:23 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[28-Nov-2019 14:00:51 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[28-Nov-2019 14:00:51 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[20-Dec-2019 10:48:50 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[20-Dec-2019 10:48:50 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[02-Mar-2020 16:51:05 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 364
+[02-Mar-2020 16:51:05 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 423
+[02-Mar-2020 16:51:05 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 424
+[02-Mar-2020 16:51:05 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 425
+[02-Mar-2020 16:51:05 Asia/Tokyo] Unknown column 'syukkainfo.10CODE' in 'on clause'
+[02-Mar-2020 16:51:05 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 535
+[09-Mar-2020 13:40:04 Asia/Tokyo] Unknown column 'henkyakuinfo.10CODE' in 'on clause'
+[09-Mar-2020 13:40:04 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 535
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index: NYUUSYUKKA_2 in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/list.php on line 27
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index: NYUUSYUKKA_2 in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/list.php on line 34
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index: NYUUSYUKKA_2 in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/list.php on line 36
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index: NYUUSYUKKA_2 in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/list.php on line 37
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/list.php on line 40
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index: NYUUSYUKKA_2 in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_Form.php on line 1075
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index: NYUUSYUKKA_2 in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_Form.php on line 1076
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index: NYUUSYUKKA_2 in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_Form.php on line 1078
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index: NYUUSYUKKA_2 in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_Form.php on line 1079
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_Form.php on line 1106
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 283
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 285
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 286
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index: NYUUSYUKKA_2 in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 288
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 364
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 423
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 424
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 425
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index: NYUUSYUKKA_2 in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 1752
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index: NYUUSYUKKA_2 in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 1754
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index: NYUUSYUKKA_2 in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 499
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index: NYUUSYUKKA_2 in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 501
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index: NYUUSYUKKA_2 in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 502
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index: NYUUSYUKKA_2 in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 503
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index: NYUUSYUKKA_2 in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 504
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index: NYUUSYUKKA_2 in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 505
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 506
+[13-Mar-2020 16:39:31 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE dobainfo.10CODE =1' at line 1
+[13-Mar-2020 16:39:31 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 535
+[16-Mar-2020 11:44:11 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 364
+[16-Mar-2020 11:44:11 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 423
+[16-Mar-2020 11:44:11 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 424
+[16-Mar-2020 11:44:11 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 425
+[16-Mar-2020 11:44:11 Asia/Tokyo] Unknown column 'syukkainfo.10CODE' in 'on clause'
+[16-Mar-2020 11:44:11 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 535
+[16-Mar-2020 11:46:02 Asia/Tokyo] Unknown column 'henkyakuinfo.10CODE' in 'on clause'
+[16-Mar-2020 11:46:02 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 535
+[16-Mar-2020 13:38:43 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[16-Mar-2020 13:38:43 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[31-Mar-2020 16:03:42 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 364
+[31-Mar-2020 16:03:42 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 423
+[31-Mar-2020 16:03:42 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 424
+[31-Mar-2020 16:03:42 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 425
+[31-Mar-2020 16:03:42 Asia/Tokyo] Unknown column 'syukkainfo.10CODE' in 'on clause'
+[31-Mar-2020 16:03:42 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 535
+[31-Mar-2020 16:42:01 Asia/Tokyo] Unknown column 'henkyakuinfo.10CODE' in 'on clause'
+[31-Mar-2020 16:42:01 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 535
+[31-Mar-2020 16:47:22 Asia/Tokyo] Unknown column 'henkyakuinfo.10CODE' in 'on clause'
+[31-Mar-2020 16:47:22 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 535
+[03-Apr-2020 15:26:15 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 364
+[03-Apr-2020 15:26:15 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 423
+[03-Apr-2020 15:26:15 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 424
+[03-Apr-2020 15:26:15 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 425
+[03-Apr-2020 15:26:15 Asia/Tokyo] Unknown column 'syukkainfo.10CODE' in 'on clause'
+[03-Apr-2020 15:26:15 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 535
+[08-Apr-2020 10:06:18 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[08-Apr-2020 10:06:18 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[21-Apr-2020 15:50:25 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 364
+[21-Apr-2020 15:50:25 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 423
+[21-Apr-2020 15:50:25 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 424
+[21-Apr-2020 15:50:25 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 425
+[21-Apr-2020 15:50:25 Asia/Tokyo] Unknown column 'syukkainfo.10CODE' in 'on clause'
+[21-Apr-2020 15:50:25 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 535
+[27-Apr-2020 17:00:21 Asia/Tokyo] Unknown column 'henkyakuinfo.10CODE' in 'on clause'
+[27-Apr-2020 17:00:21 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 535
+[28-Apr-2020 13:26:36 Asia/Tokyo] Unknown column 'dobainfo.10CODE' in 'where clause'
+[28-Apr-2020 13:26:36 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 535
+[28-Apr-2020 13:29:43 Asia/Tokyo] Unknown column 'dobainfo.10CODE' in 'where clause'
+[28-Apr-2020 13:29:43 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 535
+[14-May-2020 11:04:01 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[14-May-2020 11:04:01 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[20-May-2020 11:48:58 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[20-May-2020 11:48:58 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[20-May-2020 13:32:57 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[20-May-2020 13:32:57 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[01-Jun-2020 13:39:32 Asia/Tokyo] Unknown column 'henkyakuinfo.10CODE' in 'on clause'
+[01-Jun-2020 13:39:32 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 535
+[05-Jun-2020 16:07:13 Asia/Tokyo] Unknown column 'henkyakuinfo.10CODE' in 'on clause'
+[05-Jun-2020 16:07:13 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 535
+[17-Jun-2020 11:29:59 Asia/Tokyo] Unknown column 'dobainfo.10CODE' in 'where clause'
+[17-Jun-2020 11:29:59 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 535
+[03-Jul-2020 16:42:08 Asia/Tokyo] Unknown column 'dobainfo.10CODE' in 'where clause'
+[03-Jul-2020 16:42:08 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 535
+[09-Jul-2020 11:38:40 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-10,10' at line 7
+[09-Jul-2020 11:38:40 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 2654
+[09-Jul-2020 11:38:40 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 2714
+[22-Jul-2020 15:43:19 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[22-Jul-2020 15:43:19 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[27-Jul-2020 15:50:39 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 364
+[27-Jul-2020 15:50:39 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 423
+[27-Jul-2020 15:50:39 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 424
+[27-Jul-2020 15:50:39 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_SQL.php on line 425
+[27-Jul-2020 15:50:39 Asia/Tokyo] Unknown column 'syukkainfo.10CODE' in 'on clause'
+[27-Jul-2020 15:50:39 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 535
+[20-Aug-2020 16:24:18 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[20-Aug-2020 16:24:18 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[23-Sep-2020 15:51:27 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[23-Sep-2020 15:51:27 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[16-Oct-2020 16:16:28 Asia/Tokyo] Unknown column 'dobainfo.10CODE' in 'where clause'
+[16-Oct-2020 16:16:28 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 535
+[20-Oct-2020 13:11:52 Asia/Tokyo] Unknown column 'henkyakuinfo.10CODE' in 'on clause'
+[20-Oct-2020 13:11:52 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 535
+[10-Nov-2020 16:19:51 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[10-Nov-2020 16:19:51 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[24-Nov-2020 16:58:43 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[24-Nov-2020 16:58:43 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[02-Dec-2020 14:00:33 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[02-Dec-2020 14:00:33 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[03-Dec-2020 16:15:23 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[03-Dec-2020 16:15:23 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[25-Dec-2020 11:26:18 Asia/Tokyo] Unknown column 'dobainfo.10CODE' in 'where clause'
+[25-Dec-2020 11:26:18 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 535
+[14-Jan-2021 15:46:37 Asia/Tokyo] Unknown column 'dobainfo.10CODE' in 'where clause'
+[14-Jan-2021 15:46:37 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 535
+[14-Jan-2021 16:46:45 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[14-Jan-2021 16:46:45 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[25-Feb-2021 16:40:56 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[25-Feb-2021 16:40:56 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012
+[25-Mar-2021 16:07:51 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[25-Mar-2021 16:07:51 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/1/lolipop.jp-5224c36b71a31d9f/web/kani/f_DB.php on line 1012

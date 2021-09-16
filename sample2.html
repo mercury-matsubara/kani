@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C/DTD HTML 4.01">
+<!-- saved from url(0013)about:internet -->
+<!-- 
+*------------------------------------------------------------------------------------------------------------*
+*                                                                                                            *
+*                                                                                                            *
+*                                          ver 1.1.0  2014/07/03                                             *
+*                                                                                                            *
+*                                                                                                            *
+*------------------------------------------------------------------------------------------------------------*
+ -->
+
+<html>
+<head>
+<title>在庫更新完了</title>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<link rel="stylesheet" type="text/css" href="./list_css.css">
+<script src='./jquery-1.8.3.min.js'></script>
+<script src='./jquery.corner.js'></script>
+<script src='./jquery.flatshadow.js'></script>
+<script src='./button_size.js'></script>
+<script language="JavaScript"><!--
+	history.forward();
+	$(window).resize(function()
+	{
+		var t1 =  $('td.one').width();
+		var t2 =  $('td.two').width();
+		var w = $(window).width();
+		var width_div = 0;
+		if (w > 600)
+		{
+			width_div = w/2 - (t1 + t2)/2;
+		}
+		$('td.space').css({
+			width : width_div
+		});
+	});
+	$(function()
+	{
+		$(".button").corner();
+		$(".free").corner();
+		$("a.title").flatshadow({
+			fade: true
+		});
+		var t1 =  $('td.one').width();
+		var t2 =  $('td.two').width();
+		var w = $(window).width();
+		var width_div = 0;
+		if (w > 600)
+		{
+			width_div = w/2 - (t1 + t2)/2;
+		}
+		$('td.space').css({
+			width : width_div
+		});
+		set_button_size();
+	});
+--></script>
+</head>
+<body>
+
+<form action='pageJump.php' method='post'>
+<div class='left'>
+<div class = 'left' style =' HEIGHT:30px'>
+<input type = 'submit' class = 'button' name = 'logout__button'  value = 'ログアウト'  style='WIDTH:140px  ; HEIGHT:30px' >
+</div>
+<div class = 'left' style =' HEIGHT:30px'>
+<input type = 'submit' class = 'button' name = 'ZAIKO_4_button'  value = 'サブメニュー'  style='WIDTH:140px  ; HEIGHT:30px' >
+</div>
+</div>
+<div style='clear:both;'>
+</div>
+<div class = 'center'><br><br>
+<a class = 'title'>在庫更新完了</a></div>
+<br><br>
+<table  style="border: 1px solid #FF0000;" align = 'center' >
+<tr class = 'cen'><td class = 'space'></td>
+    
+    
+    
+<td class = 'one'>
+<a class = 'itemname'>資材コード</a></td>
+<td class = 'two'>
+<a class = 'comp' >000000</a></td></tr>
+<tr><td class = 'space'></td>
+<td class = 'one'>
+<a class = 'itemname'>資材名</a></td>
+<td class = 'two'><a class = 'comp' >梯子</a></td></tr>
+<tr><td class = 'space'></td>
+<td class = 'one'><a class = 'itemname'></a></td>
+<td class = 'two'><a class = 'comp' ></a></td></tr>
+</table>
+<table class ='list' align = 'center'><tbody>
+<th><a class ='head'>土場名</a></th><th><a class ='head'>在庫数</a></th><th><a class ='head'>土場在庫</a></th><tr><td>本社</td><td>60</td><td>50</td></tr><tr><td>東京</td><td>40</td><td>40</td></tr><tr><td>台湾</td><td>10</td><td>10</td></tr><tr class='border'><td>計</td><td>110</td><td>100</td>
+</tr>
+</tbody>
+</table>
+
+</form><div class = 'center'><form action='listJump.php' method='post'><input type='submit' name = 'cancel' value='一覧に戻る'
+					class = 'free'></form></div>
+</body>
+
+</html>
